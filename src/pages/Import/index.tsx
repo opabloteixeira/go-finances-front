@@ -27,6 +27,8 @@ const Import: React.FC = () => {
 
     if (!uploadedFiles.length) return;
 
+    console.log(uploadedFiles);
+
     const file = uploadedFiles[0];
 
     data.append('file', file.file, file.name);
@@ -36,7 +38,7 @@ const Import: React.FC = () => {
 
       history.push('/');
     } catch (err) {
-      console.log(err.response.error);
+      // console.log(err.response.error);
     }
   }
 
