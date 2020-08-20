@@ -104,7 +104,7 @@ In order to use and test the app on a simulator or on your smartphone, you shoul
 -->
 
 ## :information_source: Como usar
-### Esta aplicação necessita consumir a api https://github.com/opabloteixeira/go-finances-api, que utiliza um banco local em postgres
+ Esta aplicação necessita consumir a api https://github.com/opabloteixeira/go-finances-api, que utiliza um banco local em postgres
 ```bash
 
 # Clone este repositório
