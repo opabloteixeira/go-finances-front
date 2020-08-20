@@ -12,7 +12,7 @@
 </br>
 
 <p align="center">
-  <a href="#camera-demonstracao">Demonstração</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#camera-imagens">Imagens</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <!--<a href="#warning-prerequisites">Prerequisites</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; -->
   <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -31,7 +31,7 @@ This project was developed with the following technologies:
 -  [Styled-Components](https://www.styled-components.com/)
 
 
-## :camera: Demonstração
+## :camera: Imagens
 
 ![png1](git-imgs/goFinances01.png)
 ![png2](git-imgs/goFinances02.png)
