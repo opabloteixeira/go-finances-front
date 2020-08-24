@@ -103,7 +103,7 @@ In order to use and test the app on a simulator or on your smartphone, you shoul
 [React Native Environment (Android/iOS)](https://react-native.rocketseat.dev/)
 -->
 
-## :information_source: Como usar
+## :information_source: How To Use
  Esta aplicação necessita consumir a api https://github.com/opabloteixeira/go-finances-api, que utiliza um banco local em postgres
 ```bash
 
